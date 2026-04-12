@@ -1,20 +1,9 @@
 ---
-title: Luca Rossi
 is_a: Person
-role: Founder
-website: https://refactoring.fm
-twitter: https://twitter.com/lucaronin
-related_to:
-  - "[[Personal Knowledge Management]]"
-  - "[[Getting Started]]"
+url: https://refactoring.fm
 ---
+# Luca Rossi
 
-Creator of Laputa and founder of [Refactoring](https://refactoring.fm), a newsletter about engineering leadership and software craft for senior engineers and engineering leaders.
+Luca is the creator of Tolaria and the founder of Refactoring, a newsletter about software engineering and productivity (https://refactoring.fm). He built Tolaria to manage his own knowledge base of over 10,000 notes, then open-sourced it to share with the world.
 
-Luca built Laputa to solve his own problem: after years of using Notion, Roam, and Obsidian, he wanted a knowledge base that was truly his — plain files, real version control, and AI that can operate on the vault directly.
-
-Some of his writing on how he thinks about knowledge management:
-- [[How I Organize My Vault]]
-- [[Why Plain Files]]
-- [[Syncing Calendar Events into Laputa]]
-- [[Capturing People and Meetings]]
+When he's not writing about software craftsmanship and productivity systems, he's improving Tolaria and the tools that support his workflow.

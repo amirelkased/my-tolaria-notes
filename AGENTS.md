@@ -1,6 +1,6 @@
-# AGENTS.md — Laputa Vault
+# AGENTS.md — Tolaria Vault
 
-This is a [Laputa](https://github.com/refactoringhq/laputa-app) vault — a folder of markdown files with YAML frontmatter forming a personal knowledge graph.
+This is a [Tolaria](https://github.com/refactoringhq/tolaria) vault — a folder of markdown files with YAML frontmatter forming a personal knowledge graph.
 
 ## Note structure
 

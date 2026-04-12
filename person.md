@@ -1,8 +1,7 @@
 ---
-title: Person
 is_a: Type
-_icon: UserCircle
-_color: "#f59e0b"
+_icon: user
+_color: "#14b8a6"
 ---
 
-A Person is someone you interact with — colleagues, collaborators, mentors, or friends.
+# Person
