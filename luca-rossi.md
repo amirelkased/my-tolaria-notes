@@ -1,9 +1,13 @@
 ---
 type: Person
 url: https://refactoring.fm
+_organized: true
+related_to: "[[tolaria]]"
 ---
 # Luca Rossi
 
-Luca is the creator of Tolaria and the founder of Refactoring, a newsletter about software engineering and productivity (https://refactoring.fm). He built Tolaria to manage his own knowledge base of over 10,000 notes, then open-sourced it to share with the world.
+That’s me 👋 I built [Tolaria](http://tolaria.md/) and I run [Refactoring](https://refactoring.fm), a newsletter, podcast and community about how to run great software engineering teams.
 
-When he's not writing about software craftsmanship and productivity systems, he's improving Tolaria and the tools that support his workflow.
+I built Tolaria to manage my own knowledge base of over 10,000 notes, accumulated in over 6 years of content creation.
+
+When I am not writing about software and productivity, I am improving Tolaria and the tools that support my workflow.

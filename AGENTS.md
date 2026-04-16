@@ -1,4 +1,8 @@
-# AGENTS.md — Tolaria Vault
+---
+_organized: true
+type: Note
+---
+# [AGENTS.md](https://AGENTS.md)
 
 This is a [Tolaria](https://github.com/refactoringhq/tolaria) vault — a folder of markdown files with YAML frontmatter forming a personal knowledge graph.
 
@@ -47,8 +51,8 @@ Standard names: `belongs_to`, `related_to`, `has`. Custom names are valid.
 
 ## Wikilinks
 
-- `[[filename]]` or `[[Note Title]]` — link by filename or title
-- `[[filename|display text]]` — with custom display text
+- [[filename]] or [[Note Title]] — link by filename or title
+- [[filename|display text]] — with custom display text
 - Works in frontmatter values and markdown body
 
 ## Views

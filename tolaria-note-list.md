@@ -4,23 +4,30 @@ related_to: "[[tolaria]]"
 ---
 # The Note List
 
-The note list displays notes based on what you've selected in the sidebar. It's your window into your knowledge base.
-
-## Viewing Notes
 The note list shows the subset of notes selected by the current sidebar section. For example, clicking "Types → Project" shows all your Project notes.
 
-## Sorting
-Sort by any frontmatter property. Common sorts include:
-- Created date (when you first made the note)
-- Modified date (when you last edited)
-- Status (active, complete, etc.)
-- Any custom property you've added
+### ⬇️ Sorting
 
-## Display Properties
-Customize which properties appear as columns in the note list. This lets you see important metadata at a glance without opening individual notes.
+You can sort the note list by any note property (they get dynamically loaded from the notes), plus file properties like modified and creation time.
 
-## Search
-Search within the current list to filter down to what you need. This searches across all visible properties and note content.
+Your choice will be remembered for that specific section.
 
-## Creating Notes
+![CleanShot 2026-04-16 at 21.58.56@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776369547761-CleanShot_2026-04-16_at_21.58.56_2x.png)
+
+### 💅 Display Properties
+
+You can customize which properties appear as columns in the note list. This lets you see important metadata at a glance without opening individual notes.
+
+![CleanShot 2026-04-16 at 21.56.07@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776369416105-CleanShot_2026-04-16_at_21.56.07_2x.png)
+
+For properties that are URLs or other notes, you can open them directly from the note list with `cmd+click`
+
+### 🔍 Search
+
+You can perform instant keyword search within the current list of notes to filter down to what you need. This searches across all the notes content.
+
+### ➕ Creating notes
+
 The + button in the note list creates a new note of the current type. If you're viewing a type-filtered section, the new note automatically gets that type.
+
+You can also create a new note anywhere with `cmd+n` or from the [[command-palette]]

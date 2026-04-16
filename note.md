@@ -1,7 +1,7 @@
 ---
 type: Type
 _icon: note
-_color: "#6b7280"
+color: green
+_order: 3
+_list_properties_display: null
 ---
-
-# Note

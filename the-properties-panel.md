@@ -1,7 +1,8 @@
----  
+---
 type: Note
 related_to: "[[tolaria]]"
---- 
+---
+
 # The Properties Panel
 
 The properties panel shows and edits a note's frontmatter in a user-friendly way.

@@ -1,22 +1,39 @@
 ---
 type: Note
 related_to: "[[tolaria]]"
-author: "[[luca-rossi]]"
 ---
 # Tolaria Principles
 
-Tolaria is built on seven core principles that guide every design decision:
+Tolaria is built on a few core principles that guide our design decisions:
 
-**Files first.** Your notes are plain markdown files. They're portable, work with any editor, and require no export step. Your data belongs to you, not to any app.
+### 📑 **Files-first**
 
-**Git-irst.** Every vault is a git repository. You get full version history, the ability to use any git remote, and zero dependency on Tolaria servers. Your notes are backed up automatically.
+Your notes are plain markdown files. They're portable, work with any editor, and require no export step. Your data belongs to you, not to any app.
 
-**Offline-irst, zero lock-in.** No accounts, no subscriptions, no cloud dependencies. Your vault works completely offline and always will. When you stop using Tolaria, you lose nothing.
+### 🔌 **Git-first**
 
-**Open source.** Tolaria is free and inspectable on GitHub. This isn't a business play—it's a natural consequence of building tools for yourself and sharing them.
+Every vault is a git repository. You get full version history, the ability to use any git remote, and zero dependency on Tolaria servers.
 
-**Standards-based.** Your notes are markdown with YAML frontmatter. No proprietary formats, no locked-in data. Everything works with standard tools.
+### 🛜 **Offline-first, zero lock-in**
 
-**Types as lenses, not schemas.** Types in Tolaria are navigation aids, not enforcement mechanisms. There's no required fields, no validation, just helpful categories for finding notes.
+No accounts, no subscriptions, no cloud dependencies. Your vault works completely offline and always will. If you stop using Tolaria, you lose nothing.
 
-**Built from real needs.** Tolaria was created by [[luca-rossi]] to manage his personal vault of 10,000+ notes. Every feature exists because it solved a real problem. Now it's available for everyone.
+### 🔬 **Open source**
+
+Tolaria is free and [open source](https://github.com/refactoringhq/tolaria). I built this for myself ([[luca-rossi]]) and for sharing it with others.
+
+### 📋 **Standards-based**
+
+Notes are markdown files with YAML frontmatter. No proprietary formats, no locked-in data. Everything works with standard tools if you decide to move away from Tolaria.
+
+### 🔍 **Types as lenses — not schemas**
+
+Types in Tolaria are navigation aids, not enforcement mechanisms. There's no required fields, no validation, just helpful categories for finding notes.
+
+### 🪄**AI-first — but not AI-only**
+
+A vault of files works very well with AI agents, but you are free to use whatever you want. We support Claude Code and Codex CLI (for now), but you can edit the vault with any AI you want. We provide an AGENTS file ([[AGENTS]]) for your agents to figure out.
+
+### 💪 **Built from real use**
+
+Tolaria was created for manage my personal vault of 10,000+ notes, and I use it every day. Every feature exists because it solved a real problem.

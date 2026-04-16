@@ -1,12 +1,17 @@
 name: Active Projects
-icon: rocket-launch
-color: purple
-sort: "modified:desc"
+icon: 🚀
 filters:
   all:
-    - field: type
+  - field: type
+    op: equals
+    value: Project
+  - field: Status
+    op: equals
+    value: Active
+  - any:
+    - field: status
       op: equals
-      value: Project
-    - field: Status
-      op: equals
-      value: Active
+      value: active
+    - field: date
+      op: after
+      value: in 1 week

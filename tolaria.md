@@ -1,5 +1,6 @@
 ---
 type: Topic
+_organized: true
 ---
 # Tolaria
 
@@ -15,7 +16,7 @@ Start with [[tolaria-principles]] to understand the philosophy, then explore:
 - [[tolaria-note-list|The Note List]] — viewing and filtering notes
 - [[tolaria-editor|The Editor]] — writing and editing
 - [[tolaria-breadcrumb|The Breadcrumb Bar]] — quick note actions
-- [[tolaria-properties|The Properties Panel]] — managing metadata
-- [[tolaria-ai|AI in Tolaria]] — working with Claude Code
+- [[the-properties-panel|The Properties Panel]] — managing metadata
+- [[tolaria-ai|AI in Tolaria]] — working with CLI agents
 - [[tolaria-bottom-bar|The Bottom Bar]] — status and sync info
-- [[tolaria-types-explained|Default Types]] — the type system explained
+- [[the-default-types|Default Types]] — the type system explained
