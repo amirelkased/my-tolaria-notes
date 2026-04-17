@@ -2,7 +2,7 @@
 type: Note
 related_to: "[[tolaria]]"
 ---
-# The Editor
+# Editor
 
 The editor is where you write and edit your notes. Tolaria supports two modes:
 

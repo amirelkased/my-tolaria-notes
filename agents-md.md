@@ -2,7 +2,7 @@
 _organized: true
 type: Note
 ---
-# [AGENTS.md](https://AGENTS.md)
+# AGENTS.md
 
 This is a [Tolaria](https://github.com/refactoringhq/tolaria) vault — a folder of markdown files with YAML frontmatter forming a personal knowledge graph.
 

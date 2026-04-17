@@ -1,5 +1,4 @@
 name: Active Projects
-icon: 🚀
 filters:
   all:
   - field: type
