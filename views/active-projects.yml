@@ -1,12 +1,12 @@
-name: Active Projects
+name: Start here!
 icon: null
 color: null
 sort: null
 filters:
-  all:
+  any:
   - field: type
     op: equals
     value: Project
-  - field: Status
-    op: equals
-    value: In progress
+  - field: related_to
+    op: contains
+    value: Tolaria

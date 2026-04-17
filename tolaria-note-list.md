@@ -1,6 +1,7 @@
 ---
 type: Note
 related_to: "[[tolaria]]"
+onboarding: 3
 ---
 # Note List
 

@@ -1,5 +1,7 @@
 ---
 type: Note
+onboarding: 8
+belongs_to: "[[tolaria]]"
 ---
 # Git and AutoGit
 

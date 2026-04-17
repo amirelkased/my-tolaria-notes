@@ -2,8 +2,6 @@
 type: Project
 status: In progress
 related_to: "[[tolaria]]"
-_favorite: true
-_favorite_index: 1
 _organized: true
 ---
 # Get familiar with Tolaria
