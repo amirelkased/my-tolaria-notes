@@ -33,7 +33,7 @@ Neighborhood mode pivots the note list around one note instead of a whole sectio
 
 Use it when you want to move through related projects, people, or topics without jumping back to the sidebar. To enter Neighborhood mode, `cmd+click` a note in the list, or focus a note and press `cmd+enter`. You can use `Esc` to go back to the previous neighborhood, or to leave the mode altogether
 
-![CleanShot 2026-04-20 at 10.17.53@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776673161755-CleanShot_2026-04-20_at_10.17.53_2x.png)
+![CleanShot 2026-04-20 at 10.17.53@2x.png](attachments/1776673161755-CleanShot_2026-04-20_at_10.17.53_2x.png)
 
 ### ➕ Creating notes
 
